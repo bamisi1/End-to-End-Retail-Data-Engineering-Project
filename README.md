@@ -245,8 +245,8 @@ Product Analysis - Top selling products - Product revenue contribution
 
 # Author
 
-**Amisi Nyakeri**\
-Data Analyst \| BI Developer \| Data Engineering Enthusiast
+**Brian Nyakeri Amisi**\
+Data Analyst \| BI Developer \| Data Engineer
 
 This project demonstrates the design and implementation of a
 **production-style data engineering and analytics pipeline**.
