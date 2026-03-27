@@ -1,0 +1,6 @@
+-- SCHEMA: retail
+
+-- DROP SCHEMA IF EXISTS retail ;
+
+CREATE SCHEMA IF NOT EXISTS retail
+    AUTHORIZATION postgres;
